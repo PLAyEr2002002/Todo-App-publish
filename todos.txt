@@ -3,3 +3,4 @@ this could be another
 dry clothes
 eat water
 drink fire
+click on a todo to complete it
